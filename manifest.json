@@ -1,0 +1,14 @@
+{
+  "name": "Fasil Lakay",
+  "short_name": "Fasil Lakay",
+  "description": "Services, commerce et opportunités en Haïti",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#102a43",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
